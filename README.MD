@@ -202,7 +202,9 @@ Download and run the installer. Then run XLaunch on the windows machine.
 - Start no client
 - Select all (Clipboard, Primary Selection, Native opengl, **Disable access control**)
 
-To add the program to starup, save the config file in `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup`
+To add the program to starup, save the config file in your startup folder. To find your startup folder, press <kbd>Windows</kbd>+<kbd>r</kbd> and type `shell:startup`. 
+
+
 
 ## Add a rule to Windows Firewall
 
